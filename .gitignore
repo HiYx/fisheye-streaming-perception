@@ -1,0 +1,8 @@
+.idea
+.vscode
+data
+work_dir*
+mmdet3d.egg-info
+build
+*/__pycache__
+*/*/__pycache__
